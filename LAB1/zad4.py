@@ -1,0 +1,4 @@
+Cena = 39.99
+Rabat = 0.2
+cena_po_rabacie = Cena - (Cena * Rabat)
+print(f"Cena produktu po rabacie wynosi: {cena_po_rabacie:.2f} PLN")
